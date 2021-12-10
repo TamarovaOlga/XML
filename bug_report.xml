@@ -1,1 +1,17 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bugreport>
+   <summary>the registration page does not have a password display button </summary>
+    <project>X</project>
+    <ID>123</ID>
+    <component>user registration form</component>
+    <version>1</version>
+    <severity>minor</severity>
+    <status>new</status>
+    <author>Tamarova Olga</author>
+    <assignedto>Vadim Ksendzov</assignedto>
+    <Eenvironment>Windows 10 Google chrom version 96.0.4664.45</Eenvironment>
+    <step1>open registration form</step1>
+    <step2>enter password</step2>
+    <actualresult>does not show password</actualresult>
+    <expectedresult>show password</expectedresult>
+  </bugreport>
